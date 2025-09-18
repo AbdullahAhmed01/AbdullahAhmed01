@@ -1,4 +1,5 @@
-<img align="right" src="./github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/AbdullahAhmed01/AbdullahAhmed01/main/github-profile.png" width="30%">
+
 
 <h1>
   Hi There I'm Abdullah A.Mansour 
@@ -32,10 +33,9 @@ I'm a Computer Science student with a strong passion for creating visually appea
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmed01&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmed01&layout=compact)
 
-<br>
 
-<a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=Profile%20views&base=200">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=Profile%20views&base=200" alt="Profile views">
+<a href="https://komarev.com/ghpvc/?username=AbdullahAhmed01&style=for-the-badge&label=Profile%20views&base=200">
+  <img src="https://komarev.com/ghpvc/?username=ِAbdullahAhmed01&style=for-the-badge&label=Profile%20views&base=200" alt="Profile views">
 </a>
