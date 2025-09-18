@@ -32,7 +32,7 @@ I'm a Computer Science student with a strong passion for creating visually appea
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmed01&layout=compact&cache_seconds=86400)
 
 <br>
 
